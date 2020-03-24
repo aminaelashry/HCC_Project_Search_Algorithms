@@ -1,5 +1,4 @@
 //Amina El-Ashry
-//Feb 19, 2020
 //Program that demonstrates the two types of searches 
 
 //preprocessor directives
